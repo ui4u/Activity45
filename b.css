@@ -1,0 +1,27 @@
+body{
+    border: 3px solid black;
+    width: 390px;
+    height: 420px;
+        }
+
+    
+h1{
+    color: brown;
+    border-style: double;
+    border-color: brown;
+    background-color: pink;
+}
+h2{
+    color:blue
+}
+
+.box{
+    background: rgb(229, 229, 238);
+    border-width: 2;
+    border-color: blue;
+    border-style: solid;
+    font-size: 0.8em;
+    width: 275px;
+    margin-left: 10px;
+    
+}
